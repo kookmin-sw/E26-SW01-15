@@ -1,8 +1,8 @@
 # Re:Memory Cloud
 
-> **기억을 잃어도, 삶은 잃지 않도록**
+> **기억을 떠올리고, 삶을 더 자유롭게**
 
-2045년, 초기 알츠하이머를 겪는 시니어가 자신이 남긴 기록으로 가족과의 추억을 떠올릴 수 있게 돕는 **클라우드 회상 보조 서비스**입니다.
+2045년, 가족과의 추억부터 업무 중 떠오른 아이디어까지, 개인이 남긴 기억과 지식을 필요한 순간에 다시 연결하는 **기억 회상·인지 확장·브레인 컴퓨팅 서비스**를 상상했습니다.
 
 **국민대학교 유레카 프로젝트 · E26-SW01-15 · Re:Memory 팀**
 
@@ -13,7 +13,7 @@
 ## 포스터
 
 <div class="poster" align="center">
-  <a href="poster/original.png"><img src="poster/original.png" alt="Re:Memory Cloud 포스터. 2045년 거실에서 할아버지가 손녀와 함께한 공원 나들이를 떠올린다. 아래에는 기억의 기록, 저장·검색, 회상 보조 과정과 기술·윤리 과제가 이어진다." width="760"></a>
+  <a href="poster/original.png"><img src="poster/original.png" alt="Re:Memory Cloud 포스터. 2045년, 할아버지가 손녀와 대화하며 함께한 추억을 떠올린다. 신경 칩과 개인 클라우드가 기억과 디지털 정보를 연결하는 세 단계, 핵심 기술, 일상의 변화와 윤리 쟁점이 이어진다." width="760"></a>
 </div>
 
 <details markdown="1">
@@ -21,17 +21,18 @@
 
 - 인공 해마 연구. 사람의 해마 신호를 모델링해 특정 시각 기억 과제에서 자극의 영향을 평가했습니다. [Hampson 외, Journal of Neural Engineering (2018)](https://pubmed.ncbi.nlm.nih.gov/29589592/)
 - 시각 재구성 연구. 실험에서 참가자가 본 이미지를 fMRI 신호와 잠재 확산 모델로 재구성했습니다. [Takagi·Nishimoto, CVPR (2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html)
-- 팀 기획 근거. Week 03 미래서비스 기획서의 사용자 정의, 손녀 시나리오, 세 단계 서비스 흐름과 기억 데이터의 위험을 반영했습니다.
+- 뇌-컴퓨터 인터페이스(BCI) 연구. 사지마비 연구 참가자 세 명이 이식형 BCI로 태블릿의 커서를 움직이고 클릭했습니다. [Nuyujukian 외, PLOS ONE (2018)](https://doi.org/10.1371/journal.pone.0204566)
+- 팀 기획 근거. Week 03 기획서의 손녀 시나리오와 기록·저장·회상 흐름에서 출발해, 일상과 업무에서 개인 기억과 디지털 지식에 접근하는 서비스로 범위를 넓혔습니다. 포스터의 0.1초와 6G/7G 연동은 2045년 시나리오의 설정입니다.
 
 ### 포스터 제작에 사용한 AI
 
-**사용 도구 및 범위.** ChatGPT(GPT)를 사용해 Re:Memory Cloud 포스터를 제작했습니다. 포스터 상단에는 손녀를 알아본 할아버지의 표정과 기억이 전달되는 모습을 함께 배치했습니다.
+**사용 도구 및 범위.** ChatGPT(GPT)를 사용해 Re:Memory Cloud 포스터를 제작했습니다. 상단의 가족 장면은 기억을 떠올리는 경험을, 그 아래 작동 방식과 전후 비교는 개인 지식에 접근하는 경험을 보여줍니다.
 
 - **인물과 배경.** 2045년의 햇살이 드는 거실에서 한국인 할아버지가 어린 손녀를 알아보고 미소 짓는 장면을 요청했습니다.
 - **기술을 보여주는 방식.** 관자놀이 뒤의 작은 파란 신경 칩으로 클라우드에서 나온 황금빛 신호가 이어지게 하고, 할아버지와 손녀가 공원에서 보낸 추억은 반투명 홀로그램으로 표현하도록 했습니다.
 - **이미지 분위기.** 사진처럼 사실적인 표현과 따뜻한 해 질 녘 조명을 요청했습니다. 수술 장면, 전선, 큰 헬멧, 어두운 사이버펑크 분위기는 제외하도록 했습니다.
 
-**핵심 이미지 생성 프롬프트 (Week 03 기획서 7쪽)**
+**가족 장면의 이미지 생성 프롬프트 (Week 03 기획서 7쪽)**
 
 > A heartwarming futuristic scene in 2045, a gentle 70-year-old Korean grandfather smiling warmly as he recognizes his little granddaughter in a sunlit modern living room, a tiny sleek glowing blue bio-chip attached softly behind his temple, glowing golden neural network streams flowing from a floating cloud icon in the air directly into his bio-chip, translucent holographic memory bubbles showing happy past moments at a park gently projecting near his head as the memory is restored to his brain, warm golden hour lighting, emotional high-tech humanism, photorealistic, 8k --no scary surgery, wires, bulky helmet, dark cyberpunk
 
