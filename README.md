@@ -22,7 +22,18 @@
 - 인공 해마 연구. 사람의 해마 신호를 모델링해 특정 시각 기억 과제에서 자극의 영향을 평가했습니다. [Hampson 외, Journal of Neural Engineering (2018)](https://pubmed.ncbi.nlm.nih.gov/29589592/)
 - 시각 재구성 연구. 실험에서 참가자가 본 이미지를 fMRI 신호와 잠재 확산 모델로 재구성했습니다. [Takagi·Nishimoto, CVPR (2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html)
 - 팀 기획 근거. Week 03 미래서비스 기획서의 사용자 정의, 손녀 시나리오, 세 단계 서비스 흐름과 기억 데이터의 위험을 반영했습니다.
-- AI 활용. 팀 기획서에는 ‘2045년 거실의 할아버지와 손녀, 작은 신경 칩, 공원 기억의 홀로그램, 따뜻한 빛’을 중심으로 한 이미지 프롬프트가 기록돼 있습니다. 팀이 제공한 AI 생성 포스터를 사용했습니다. 최초 이미지 생성 도구는 팀 자료에 명시되어 있지 않습니다.
+
+### 포스터 제작에 사용한 AI
+
+**사용 도구 및 범위.** ChatGPT(GPT)를 사용해 Re:Memory Cloud 포스터를 제작했습니다. 포스터 상단에는 손녀를 알아본 할아버지의 표정과 기억이 전달되는 모습을 함께 배치했습니다.
+
+- **인물과 배경.** 2045년의 햇살이 드는 거실에서 한국인 할아버지가 어린 손녀를 알아보고 미소 짓는 장면을 요청했습니다.
+- **기술을 보여주는 방식.** 관자놀이 뒤의 작은 파란 신경 칩으로 클라우드에서 나온 황금빛 신호가 이어지게 하고, 할아버지와 손녀가 공원에서 보낸 추억은 반투명 홀로그램으로 표현하도록 했습니다.
+- **이미지 분위기.** 사진처럼 사실적인 표현과 따뜻한 해 질 녘 조명을 요청했습니다. 수술 장면, 전선, 큰 헬멧, 어두운 사이버펑크 분위기는 제외하도록 했습니다.
+
+**핵심 이미지 생성 프롬프트 (Week 03 기획서 7쪽)**
+
+> A heartwarming futuristic scene in 2045, a gentle 70-year-old Korean grandfather smiling warmly as he recognizes his little granddaughter in a sunlit modern living room, a tiny sleek glowing blue bio-chip attached softly behind his temple, glowing golden neural network streams flowing from a floating cloud icon in the air directly into his bio-chip, translucent holographic memory bubbles showing happy past moments at a park gently projecting near his head as the memory is restored to his brain, warm golden hour lighting, emotional high-tech humanism, photorealistic, 8k --no scary surgery, wires, bulky helmet, dark cyberpunk
 
 </details>
 
