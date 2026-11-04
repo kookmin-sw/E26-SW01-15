@@ -8,12 +8,12 @@
 
 정현구 · 고지민 · 세짐(sezim)
 
-[포스터 크게 보기](poster.jpg)
+[포스터 크게 보기](poster/original.png)
 
 ## 포스터
 
 <div class="poster" align="center">
-  <a href="poster.jpg"><img src="poster.jpg" alt="Re:Memory Cloud 포스터. 2045년 거실에서 할아버지가 손녀와 함께한 공원 나들이를 떠올린다. 아래에는 기억의 기록, 저장·검색, 회상 보조 과정과 기술·윤리 과제가 이어진다." width="760"></a>
+  <a href="poster/original.png"><img src="poster/original.png" alt="Re:Memory Cloud 포스터. 2045년 거실에서 할아버지가 손녀와 함께한 공원 나들이를 떠올린다. 아래에는 기억의 기록, 저장·검색, 회상 보조 과정과 기술·윤리 과제가 이어진다." width="760"></a>
 </div>
 
 <details markdown="1">
@@ -22,7 +22,7 @@
 - 인공 해마 연구. 사람의 해마 신호를 모델링해 특정 시각 기억 과제에서 자극의 영향을 평가했습니다. [Hampson 외, Journal of Neural Engineering (2018)](https://pubmed.ncbi.nlm.nih.gov/29589592/)
 - 시각 재구성 연구. 실험에서 참가자가 본 이미지를 fMRI 신호와 잠재 확산 모델로 재구성했습니다. [Takagi·Nishimoto, CVPR (2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html)
 - 팀 기획 근거. Week 03 미래서비스 기획서의 사용자 정의, 손녀 시나리오, 세 단계 서비스 흐름과 기억 데이터의 위험을 반영했습니다.
-- AI 활용. 팀 기획서에는 ‘2045년 거실의 할아버지와 손녀, 작은 신경 칩, 공원 기억의 홀로그램, 따뜻한 빛’을 중심으로 한 이미지 프롬프트가 기록돼 있습니다. 팀이 제공한 AI 이미지에서 핵심 장면을 사용했고, Codex로 포스터 문안과 발표 흐름을 정리했습니다. 최초 이미지 생성 도구는 팀 자료에 명시되어 있지 않습니다.
+- AI 활용. 팀 기획서에는 ‘2045년 거실의 할아버지와 손녀, 작은 신경 칩, 공원 기억의 홀로그램, 따뜻한 빛’을 중심으로 한 이미지 프롬프트가 기록돼 있습니다. 팀이 제공한 AI 생성 포스터를 사용했습니다. 최초 이미지 생성 도구는 팀 자료에 명시되어 있지 않습니다.
 
 </details>
 
