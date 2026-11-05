@@ -19,10 +19,13 @@
 <details markdown="1">
 <summary>참고자료 및 AI 활용</summary>
 
-- 인공 해마 연구. 사람의 해마 신호를 모델링해 특정 시각 기억 과제에서 자극의 영향을 평가했습니다. [Hampson 외, Journal of Neural Engineering (2018)](https://pubmed.ncbi.nlm.nih.gov/29589592/)
-- 시각 재구성 연구. 실험에서 참가자가 본 이미지를 fMRI 신호와 잠재 확산 모델로 재구성했습니다. [Takagi·Nishimoto, CVPR (2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.html)
-- 뇌-컴퓨터 인터페이스(BCI) 연구. 사지마비 연구 참가자 세 명이 이식형 BCI로 태블릿의 커서를 움직이고 클릭했습니다. [Nuyujukian 외, PLOS ONE (2018)](https://doi.org/10.1371/journal.pone.0204566)
-- 팀 기획 근거. Week 03 기획서의 손녀 시나리오와 기록·저장·회상 흐름에서 출발해, 일상과 업무에서 개인 기억과 디지털 지식에 접근하는 서비스로 범위를 넓혔습니다. 포스터의 0.1초와 6G/7G 연동은 2045년 시나리오의 설정입니다.
+[기술 배경과 참고자료 보기](REFERENCES.md)
+
+- 언어 의미 재구성. fMRI 신호와 언어 모델로 이야기의 의미를 일부 재구성한 실험입니다. 개인별 학습과 참여자의 협조가 중요했습니다. [Tang 외, Nature Neuroscience (2023)](https://www.nature.com/articles/s41593-023-01304-9)
+- 해마 자극. 뇌전증 모니터링 중인 성인 14명에게 특정 기억 과제의 자극을 적용해, 수행의 개선과 저하를 모두 관찰했습니다. [Roeder 외, Frontiers in Computational Neuroscience (2024)](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1263311/full)
+- 회상 중재. 치매 참여자 1,972명이 포함된 22개 연구를 검토했으며, 사진·음악·대화를 활용한 중재의 효과는 조건에 따라 작고 다양했습니다. [Woods 외, Cochrane (2018)](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia)
+- 기술 확장. Neuropixels 원논문, BCI 기기 제어 논문, Neuralink의 2026년 공식 발표와 연구별 적용 범위는 상세 참고자료에 정리했습니다.
+- 팀 기획 근거. Week 03의 손녀 시나리오와 기록·저장·회상 흐름에서 개인 지식 접근으로 범위를 넓혔습니다. 포스터의 기억 연결, 생체 기억 암호화, 0.1초와 6G/7G 연동은 추가 검증이 필요한 2045년 설계입니다.
 
 ### 포스터 제작에 사용한 AI
 
